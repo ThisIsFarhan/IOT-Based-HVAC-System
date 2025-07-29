@@ -12,7 +12,7 @@ This project implements a real-time PID controller on an ESP32 to maintain a des
 ## 🎥 Demo Video
 
 Watch the system in action on YouTube:  
-👉 [**PID Temperature Control Demo**]((https://www.youtube.com/watch?v=CZXyboN238I))
+👉 [**PID Temperature Control Demo**](https://www.youtube.com/watch?v=CZXyboN238I)
 
 ## 🖼️ System Views
 
