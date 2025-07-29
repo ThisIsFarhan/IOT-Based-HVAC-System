@@ -19,8 +19,8 @@ Watch the system in action on YouTube:
 **Top View**  
 ![Top View](top%20view.jpg)
 
-**Top View**  
-![Bottom View](top%20view.jpg)
+**Side View**  
+![Side View](side%20view.jpg)
 
 **Android App Interface**  
 ![App View](app.jpg)
